@@ -1,4 +1,4 @@
-# CLIo
+# :maple_leaf: CLIo :maple_leaf:
 ## Command Line Interface options for Maple
 A (very slowly) growing group of simple tools for improving the command line Maple experience.
 ###### Single-use install
